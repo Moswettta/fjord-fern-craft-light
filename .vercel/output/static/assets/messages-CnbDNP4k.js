@@ -1,0 +1,1 @@
+import{l as e,o as t,s as n}from"./site-DEQm3nTG.js";import{o as r}from"./index-CuvZOAa3.js";var i=r();function a(){return(0,i.jsx)(e,{children:(0,i.jsxs)(`main`,{children:[(0,i.jsx)(n,{kicker:`Leadership`,title:`From our team`,text:`Words from the Director, the Headteacher, and our teachers.`}),(0,i.jsx)(t,{})]})})}export{a as component};

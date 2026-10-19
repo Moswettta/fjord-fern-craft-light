@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Sewa Academy Kenya">
+  <rect width="32" height="32" rx="7" fill="#152c22"/>
+  <path fill="#1e3a2e" stroke="#c9a84c" stroke-width="1.35" stroke-linejoin="round" d="M16 3.4 26.2 7.1v8.8c0 5.5-4.2 9.6-10.2 12.1C9.9 25.5 5.8 21.4 5.8 15.9V7.1Z"/>
+  <circle cx="16" cy="12.4" r="3.15" fill="#c9a84c"/>
+  <path fill="#f8f6f2" d="M15.35 10.15h1.3v1.55h1.55v1.3H16.65v1.55h-1.3V13H13.8v-1.3h1.55z"/>
+  <path fill="#f8f6f2" stroke="#c9a84c" stroke-width="0.7" stroke-linejoin="round" d="M9.1 18.55c2-.85 4.15-.7 6.9.75 2.75-1.45 4.9-1.6 6.9-.75v3.55c-2-.95-4.15-.7-6.9.85-2.75-1.55-4.9-1.8-6.9-.85z"/>
+  <path stroke="#c9a84c" stroke-width="0.55" d="M16 19.3v3.35"/>
+</svg>

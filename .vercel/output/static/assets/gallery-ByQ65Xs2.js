@@ -1,0 +1,1 @@
+import{i as e,l as t,s as n}from"./site-DEQm3nTG.js";import{o as r}from"./index-CuvZOAa3.js";var i=r();function a(){return(0,i.jsx)(t,{children:(0,i.jsxs)(`main`,{children:[(0,i.jsx)(n,{kicker:`Moments`,title:`Gallery`,text:`Classrooms, play, creativity, and community at Sewa Academy.`}),(0,i.jsx)(e,{})]})})}export{a as component};

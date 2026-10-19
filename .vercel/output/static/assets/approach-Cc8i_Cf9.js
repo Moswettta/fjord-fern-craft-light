@@ -1,0 +1,1 @@
+import{l as e,n as t,s as n}from"./site-DEQm3nTG.js";import{o as r}from"./index-CuvZOAa3.js";var i=r();function a(){return(0,i.jsx)(e,{children:(0,i.jsxs)(`main`,{children:[(0,i.jsx)(n,{kicker:`How we teach`,title:`Our Approach`,text:`Mind, character, creativity, and spirit — held together in daily school life.`}),(0,i.jsx)(t,{})]})})}export{a as component};

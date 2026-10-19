@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sewa Academy Kenya | Christian School in Slota, Athi River",
+      "hasCanvas": false,
+      "bodyTextLen": 4407,
+      "bodyTextHash": "2bedebfa7b3ba59f051ea774efdae3b8f8e011ad35493f6caa24fc82de12d3e4",
+      "bodyTextPrefix": "Sewa Academy KENYA Home About Programs Approach Messages Gallery",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sewa Academy Kenya | Christian School in Slota, Athi River",
+      "hasCanvas": false,
+      "bodyTextLen": 4346,
+      "bodyTextHash": "7d79564f8c58e091b68418d92b85541300d1ef6a3ccdc02ba580141c27afe602",
+      "bodyTextPrefix": "Sewa Academy KENYA Private Christian School — Slota, Athi River ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
